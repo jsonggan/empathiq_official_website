@@ -6066,7 +6066,7 @@ form.style-line-bot.style-2 button {
   transform: translateY(-50%);
   width: 16px;
   height: 1px;
-  background-color: var(--white);
+  background-color: var(--body-color);
   transition: 0.25s ease-in-out;
 }
 .accordion-item .icon::before {
@@ -6077,7 +6077,7 @@ form.style-line-bot.style-2 button {
   transform: translate(-50%, -50%);
   width: 1px;
   height: 16px;
-  background-color: var(--white);
+  background-color: var(--body-color);
   transition: 0.25s ease-in-out;
 }
 .accordion-item .accordion-faqs-content {
